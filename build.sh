@@ -1,0 +1,1 @@
+docker build -t cud114py38tf2.4.1 .
